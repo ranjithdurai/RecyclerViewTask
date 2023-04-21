@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerViewTask</string>
+    <string name="emplyoee_id">Emplyoee Id :</string>
+    <string name="name">Name</string>
+    <string name="email">Email :</string>
+    <string name="address">Address :</string>
+    <string name="phonenumber">PhoneNumber :</string>
+    <string name="companydetails">CompanyDetails</string>
+    <string name="company_name">Company Name :</string>
+    <string name="website">Website :</string>
+    <string name="emplyoee_list">Emplyoee List</string>
+    <string name="emplyoee_details">Emplyoee Details </string>
+</resources>
